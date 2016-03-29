@@ -13,6 +13,7 @@ Here are our official chapters. Let us know if you are interested in [starting o
 * [Amsterdam](http://www.meetup.com/papers-we-love-amsterdam/)
 * [Bangalore](http://www.meetup.com/Papers-we-love-Bangalore/)
 * [Berlin](http://www.meetup.com/Papers-We-Love-Berlin/)
+* [Boston](http://www.meetup.com/Papers-We-Love-Boston-Cambridge/)
 * [Brasilia](http://www.meetup.com/papers-we-love-bsb)
 * [Boulder](http://www.meetup.com/Papers-We-Love-Boulder/)
 * [Bucharest](http://www.meetup.com/papers-we-love-bucharest/)
@@ -40,7 +41,6 @@ Here are our official chapters. Let us know if you are interested in [starting o
 * [St. Louis](http://www.meetup.com/Papers-We-Love-in-saint-louis/)
 * [Toronto](http://www.meetup.com/Papers-We-Love-Toronto/)
 * [Vienna](http://www.meetup.com/Papers-We-Love-Vienna/)
-* [Washington, DC](http://www.meetup.com/Papers-We-Love-DC/)
 * [Winnipeg](http://www.meetup.com/Papers-We-Love-Winnipeg/)
 
 All of our meetups follow our [Code of Conduct](CODE_OF_CONDUCT.md).
